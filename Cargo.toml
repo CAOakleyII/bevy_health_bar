@@ -1,0 +1,15 @@
+[package]
+name = "bevy_health_bar"
+description = "Bevy plugin to easily create progress bars, health bars, and more for UI."
+keywords = ["gamedev", "ui", "progress bar", "health bar"]
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "basic"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.12.0"
