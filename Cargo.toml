@@ -5,6 +5,8 @@ keywords = ["gamedev", "ui", "progress bar", "health bar"]
 readme = "README.md"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/caoakleyii/bevy_health_bar"
 
 [[example]]
 name = "basic"
